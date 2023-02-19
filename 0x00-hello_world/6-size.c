@@ -2,7 +2,7 @@
 /**
 * main - Write a C program that prints the size of various
 * types on the computer it is compiled and run on.
-* return 0(Sucess)
+* Return 0 (Sucess)
 */
 int main(void)
 {
