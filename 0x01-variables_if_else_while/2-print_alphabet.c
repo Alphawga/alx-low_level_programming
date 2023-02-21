@@ -8,11 +8,13 @@
 
 int main(void)
 {
-	char ch = "abcdefghijklmnopqrstuvwxyz";
+        char c;
 
-	putchar(ch);
-	putchar("\n");
+        for (c = 'a'; c <= 'z'; ++c)
+        putchar("%c", c);
 
-	return (0);
+        putchar("\n");
+
+        return (0);
 
 }
