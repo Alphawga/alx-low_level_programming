@@ -6,7 +6,7 @@
  *   Return: 0(sucess)
  */
 
-char main(void)
+char main()
 {
         char c;
 
