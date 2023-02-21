@@ -8,10 +8,11 @@
 
 int main(void)
 {
-	char ch="abcdefghijklmnopqrstuvwxyz";
+	char ch = "abcdefghijklmnopqrstuvwxyz";
+
 	putchar(ch);
 	putchar("\n");
-	
-	return 0;
-	
+
+	return (0);
+
 }
